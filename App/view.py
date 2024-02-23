@@ -163,8 +163,9 @@ if __name__ == "__main__":
         elif int(inputs[0]) == 7:
             # TODO completar modificaciones para el lab 5
             print("Ordenando los libros por rating ...")
-            result = controller.sortBooks(control)
-            print("tiempo de ejecución:", f"{result:.3f}", "[ms]")
+            Time,Sorted_List = controller.sortBooks(control)
+            print("tiempo de ejecución:", f"{Time:.3f}", "[ms]")
+            print("Los datos son: \n", Sorted_List)
 
         elif int(inputs[0]) == 0:
             # confirmar salida del programa
