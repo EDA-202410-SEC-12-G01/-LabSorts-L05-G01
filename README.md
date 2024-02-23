@@ -32,10 +32,9 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
-1. Student No. 1 Name, Student No. 1 Uniandes Email, Student No. 1 owned functionality.
-1. Student No. 2 Name, Student No. 2 Uniandes Email, Student No. 2 owned functionality.
-1. Student No. 3 Name, Student No. 3 Uniandes Email, Student No. 3 owned functionality.
-
+1. Cristian Camilo Vega Buitrago - 202224664
+1. Juan Sebastian Rios Penagos - 202223754
+1. Simón Gonzalez Guerra - 202317300 
 [Back to top](#sample-sorts)
 
 <!-- ABOUT THE PROJECT -->
